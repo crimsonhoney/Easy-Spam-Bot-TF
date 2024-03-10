@@ -1,4 +1,4 @@
-import pyautogui as pt
+
 import time
 
 limit = int(input("Gib die Anzahl der Nachrichten ein: "))
