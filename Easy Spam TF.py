@@ -1,8 +1,8 @@
 
 import time
 
-limit = int(input("Gib die Anzahl der Nachrichten ein: "))
-message = input("Gib die Spam-Nachricht ein: ")
+limit = int(input("Enter the number of messages: "))
+message = input("Enter the spam message: ")
 
 # Warte 5 Sekunden, um WhatsApp zu öffnen und den Cursor auf das Nachrichteneingabefeld zu setzen
 time.sleep(5)
