@@ -13,3 +13,4 @@ AnonSpam is a Python bot that spams comments on platforms like YouTube, Facebook
 VK (Vkontakte) Spam Bot (Python):
 The vk_spam_bot is designed for sending messages on VKontakte (a Russian social media platform) from a group account2.
 Remember that using spam bots without proper consent can violate terms of service on various platforms and may lead to unintended consequences. Always use such tools responsibly and ethically. 🤖📧
+![pc](https://github.com/crimsonhoney/Spam-Bot-TF/assets/131494679/e863eeb8-a5b6-4e88-b579-1cb2c70abfd0)
